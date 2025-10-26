@@ -1,8 +1,8 @@
-import './about.css';
+import styles from './about.module.css';
 
 export default function About() {
   return (
-    <section className="about-section text-white text-center">
+    <section className={`${styles.about} text-white text-center`}>
       <div className="container py-5">
         <h2 className="fw-bold text-uppercase mb-4">About</h2>
 
