@@ -4,11 +4,6 @@ export default function Portfolio() {
       <div className="container">
         <div className="text-center mb-5">
           <h2 className="text-uppercase fw-bold">Portfolio</h2>
-          <div className="d-flex align-items-center justify-content-center my-3">
-            <div className="border-top border-3 border-dark w-25"></div>
-            <i className="fa-solid fa-star mx-3 text-dark"></i>
-            <div className="border-top border-3 border-dark w-25"></div>
-          </div>
         </div>
 
         <div className="row g-4">
