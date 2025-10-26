@@ -1,0 +1,23 @@
+.about-section {
+    background-color: #1abc9c;
+}
+
+.about-section h2 {
+    font-size: 2.5rem;
+}
+
+.about-section p {
+    font-size: 1.05rem;
+    line-height: 1.7;
+}
+
+.about-section .btn-outline-light {
+    border: 2px solid #fff;
+    font-weight: 500;
+    transition: all 0.3s ease;
+}
+
+.about-section .btn-outline-light:hover {
+    background-color: #fff;
+    color: #1abc9c;
+}
